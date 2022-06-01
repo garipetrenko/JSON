@@ -1,8 +1,8 @@
 {
-        "Last name":"Petrenko",
-        "First name":"Igor",
+        "Last_name":"Petrenko",
+        "First_name":"Igor",
         "Sirname":"Olegovich",
         "Age":25,
-        "Pets Numbers":0,
-        "Desired salary":50000
+        "Pets_Numbers":0,
+        "Desired_salary":50000
 }
